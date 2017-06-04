@@ -4,7 +4,7 @@ my $n=100;
 my $i;
 my $j;
 my $is_prime;
-print "The prime numbers between 2 and $n are:\n";
+print "The prime numbers between 2 and $n are:\n"
 for($i=3;$i<=$n;$i++) 
 { 
     $is_prime = 1;
